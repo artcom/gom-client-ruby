@@ -1,5 +1,7 @@
 #Ruby Gom Client
 
+[![Dependency Status](https://gemnasium.com/artcom/gom-client-ruby.png)](https://gemnasium.com/artcom/gom-client-ruby)
+
 ##Requirements
 
 * Ruby 1.9
